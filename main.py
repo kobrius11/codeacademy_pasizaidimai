@@ -161,3 +161,7 @@ try:
     print(list_reverse(lst))
 except:
     print("Kazkas netaip")
+
+#Mildos užduotėlė
+klausimas = input("Laba diena, koks tavo vardas?")
+print("Labas! " + klausimas)
