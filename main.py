@@ -161,3 +161,11 @@ try:
     print(list_reverse(lst))
 except:
     print("Kazkas netaip")
+
+
+
+    # Darius
+
+    vardas_pavarde = input("Irasykite savo varda ir pavarde")
+
+    simboliu_sk = vardas_pavarde(len)
