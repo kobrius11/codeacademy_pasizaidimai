@@ -9,9 +9,15 @@ def kvadratine_formule():
         return "ivestas ne skaicius!"
     else:
 
+        
+
         x1 = None
         x2 = None
     
+        if a == 0:
+            return f"x = {-c / b}"
+
+
         #diskriminantas = b**2 - 4ac
         diskriminantas = (b ** 2) - 4 * (a * c)
 
